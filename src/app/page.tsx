@@ -73,27 +73,27 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg?_wi=1",
           imageAlt: "Patio sul canale al tramonto",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg?_wi=2",
           imageAlt: "Vista panoramica patio",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg?_wi=3",
           imageAlt: "Atmosfera ristorante patio",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg?_wi=4",
           imageAlt: "Dettaglio tavoli esterni",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg?_wi=5",
           imageAlt: "Tramonto sul canale udine",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg?_wi=6",
           imageAlt: "Osteria al calar del sole",
         },
       ]}
@@ -167,7 +167,7 @@ export default function LandingPage() {
           name: "Marco Rossi",
           handle: "@mrossi",
           testimonial: "Il miglior frico di Udine, atmosfera magica sul canale.",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-spending-time-together_23-2149152906.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-spending-time-together_23-2149152906.jpg?_wi=1",
         },
         {
           id: "2",
@@ -195,7 +195,7 @@ export default function LandingPage() {
           name: "Paolo Fabbri",
           handle: "@pfabbri",
           testimonial: "Un tuffo nella storia di Udine con piatti fatti a regola d'arte.",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-spending-time-together_23-2149152906.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-spending-time-together_23-2149152906.jpg?_wi=2",
         },
       ]}
       title="Cosa dicono i nostri ospiti"
@@ -212,7 +212,7 @@ export default function LandingPage() {
       title="Prenota il Tuo Tavolo"
       description="Compila il form per prenotare o chiamaci direttamente per richieste urgenti."
       mediaAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/side-view-lula-kebab-with-fried-tomato-table_140725-11989.jpg?_wi=7"
       tag="Prenotazioni"
     />
   </div>
