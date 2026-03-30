@@ -60,7 +60,7 @@ export default function LandingPage() {
   <div id="hero" data-section="hero">
       <HeroCarouselLogo
       logoText="Osteria Alla Ghiacciaia"
-      description="Cucina tipica friulana nel cuore di Udine. Frico, cjarsons e i piatti storici del nostro territorio."
+      description=""
       buttons={[
         {
           text: "Prenota un Tavolo",
