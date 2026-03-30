@@ -146,7 +146,7 @@ export default function LandingPage() {
         },
         {
           id: "p3",
-          name: "Cjarsons Tradizionali",
+          name: "",
           price: "13,00 €",
           imageSrc: "http://img.b2bpic.net/free-photo/top-view-maasdam-cheese-with-green-olives-bowls-stand-cucumber-with-tomato_141793-51721.jpg",
         },
